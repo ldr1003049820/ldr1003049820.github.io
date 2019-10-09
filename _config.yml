@@ -16,12 +16,12 @@ sidebar-avatar: /img/myphoto.JPG      # use absolute URL, seeing it's used in bo
 
 
 
-# SNS settings
+# SNS settings 一些账号
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     DeruiLiu
-github_username:    DeruiLiu
-jianshu_username:   e71990ada2fd
+#zhihu_username:     DeruiLiu
+#github_username:    DeruiLiu
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 

@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 德瑞的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 德瑞的博客 | DR Blog
+header-img: img/desk2.jpg
 email: liuderui123@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 德瑞的博客, liuderui, 刘德瑞, iOS, Apple, iPhone"
+keyword: "DR, DR Blog, 德瑞的博客, liuderui, 刘德瑞, iOS, Apple, iPhone"
 url: "http://DeruiLiu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DeruiLiu/DeruiLiu.github.io.git" # you code repository

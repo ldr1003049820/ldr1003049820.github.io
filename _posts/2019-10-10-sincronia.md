@@ -7,7 +7,7 @@ author:     DR
 header-img: img/IMG_4158.jpg
 catalog: true
 tags:
-    - Blog
+    - paper
 ---
 
 > 第一次这样记录论文，估计会很糟糕。

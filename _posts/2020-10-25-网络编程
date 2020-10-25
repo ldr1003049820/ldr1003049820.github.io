@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      网络编程知识问题积累
+subtitle:   网络编程问题积累
+date:       2020-10-25
+author:     DR
+header-img: img/IMG_4158.jpg
+catalog: true
+tags:
+    - experience
+---
+
+## 一. socket和TCP/IP协议族的关系
+由socket定义的这一组API提供以下两点功能：1.将应用程序数据从用户缓冲区复制到TCP/UDP内核发送缓冲区，以交付内核来发送数据，或者是从内核TCP/UDP接收缓冲区中复制数据到用户缓冲区，以读取数据。2.应用程序可以通过它们
+来修改各层协议的某些头部信息或其他数据结构，从而精细的控制底层通信的行为。

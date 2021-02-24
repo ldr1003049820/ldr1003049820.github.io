@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      设计模式之23种设计模式
+subtitle:   设计模式之23种设计模式
+date:       2021-01-18
+author:     DR
+header-img: img/IMG_4158.jpg
+catalog: true
+tags:
+    - design-patterns
+---
+
+# 1.单例模式
